@@ -48,18 +48,11 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- 🔗 [Petty Cash System (Laravel)](https://github.com/bimaalsandi/petty-cash)
-- 🔗 [Task Management API (Express.js)](https://github.com/bimaalsandi/task-api)
-- 🔗 [Customer Portal (Django)](https://github.com/bimaalsandi/customer-django)
-
----
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bimaalsandi/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bima-al-sandi-67b465230/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bimaalsandi19.com)
 
 ---
 
