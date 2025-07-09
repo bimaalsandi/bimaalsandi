@@ -13,7 +13,7 @@
 - 🔭 Currently working with **Laravel**, **CodeIgniter**, **Python (Django)**, and **Express.js**
 - 🌱 Always learning and improving backend architecture, API security, and scalable systems
 - 💬 Ask me about PHP frameworks, RESTful API, MySQL, or Express + MySQL setup
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **bimaalsandi19@gmail.com**
 
 ---
 
